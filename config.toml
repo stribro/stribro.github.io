@@ -1,0 +1,28 @@
+# The URL the site will be built for
+base_url = "https://stribro.github.io/"
+
+title = "Stříbro"
+description = "Mlčeti zlato, mluviti stříbro"
+
+default_language = "cs"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = false
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+taxonomies = [
+    { name = "categories", feed = true },
+]
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = true
+
+[extra]
+# Put all your custom variables here
+homepage_title = "Stříbro"
+homepage_subtitle = "Mlčeti zlato, mluviti stříbro"
+homepage_img_url = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/BECHSTEIN%281845%29_p624_Plan_von_Prag.jpg/1920px-BECHSTEIN%281845%29_p624_Plan_von_Prag.jpg"

@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+
+{% block main %}
+	<h2>Články v kategorii {{ term.name }}</h2>
+	<ul>
+	{% for page in term.pages %}
+		<li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
+	{% endfor %}
+	</ul>
+{% endblock %}
