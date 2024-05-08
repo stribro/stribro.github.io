@@ -28,4 +28,4 @@ Podobnými problémy jako heslo: „Netolerujme netoleranci,“  trpí napříkl
 
 A jaký má být tedy závěr této rozpravy? Autor se chtěl veřejně pozastavit nad tím, s jakou vervou dokáží někteří jedinci obhajovat svoje *n-té*  či  *(n+1)-ní* čtení Popperova paradoxu. V praxi se totiž ukazuje, že opravdová odpověď na *ne*toleranci ve společnosti podobně jako v případě sporu mezi utilirarismem a deontologií neexistuje.
 
-*K sepsání této krátké rozpravy mne inspiroval můj kamarád Josef, který se oblibou na Poppera odkazoval.*
+*K sepsání této krátké rozpravy mne inspiroval můj kamarád Josef, který se s oblibou na Poppera odkazoval.*
