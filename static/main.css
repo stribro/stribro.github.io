@@ -4,7 +4,6 @@
 	--primary-color: rgb(250, 250, 255);
 	--text-color: rgb(10, 10, 10);
 	--secondary-color: rgb(230, 230, 235);
-	--highlight: rgb(254, 243, 199);
 	--link: rgb(252, 218, 83);
 
 	--main-width: 40rem;
@@ -85,7 +84,6 @@ main h1 {
 }
 
 main h2 {
-	background-color: var(--highlight);
 	width: max-content;
 	padding: 0.4rem 0.3rem;
 }
