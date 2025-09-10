@@ -18,11 +18,11 @@ Jednou z nejznámějších prací Milana Kundery je kniha *Nesnesitelná lehkost
 *« Myšlenka o věčném návratu je tajemná a Nietzsche jí uvedl ostatní filosofy do rozpaků: pomyslit, že by se jednou všechno opakovalo, jako jsme to už zažili, a že by se i to opakování ještě do nekonečna opakovalo! Co chce říci ten pomatený mýtus?
 Mýtus věčného návratu říká per negationem, že život, který zmizí jednou provždy, který se nenavrátí, je podoben stínu, je bez váhy, je předem mrtvý a byl-li strašný, krásný, vznešený, ta hrůza, vznešenost či krása nic neznamenají. Nemusíme je brát na vědomí stejně jako válku mezi dvěma africkými státy ve čtrnáctém století, která nezměnila nic na tváři světa, přestože v ní zahynulo v nevýslovných mukách tři sta tisíc černochů.
 Změní se něco na válce dvou afrických států ve čtrnáctém století, bude-li se nesčetněkrát opakovat ve věčném návratu? »*
-...
-*« Bude-li se každá vteřina našeho života nekonečněkrát opakovat, jsme přikováni k věčnosti jak Ježíš Kristus ke kříži. Taková představa je hrozná. Ve světě věčného návratu leží na každém gestu tíha nesnesitelné odpovědnosti. To, je důvod, proč Nietzsche nazýval myšlenku věčného návratu nejtěžším břemenem (das schwerste Gewicht).
+
+*« ... Bude-li se každá vteřina našeho života nekonečněkrát opakovat, jsme přikováni k věčnosti jak Ježíš Kristus ke kříži. Taková představa je hrozná. Ve světě věčného návratu leží na každém gestu tíha nesnesitelné odpovědnosti. To, je důvod, proč Nietzsche nazýval myšlenku věčného návratu nejtěžším břemenem (das schwerste Gewicht).
 Je-li věčný návrat nejtěžším břemenem, pak se mohou naše životy jevit na jeho pozadí ve vší nádherné lehkosti. Ale je tíha opravdu hrozná a lehkost nádherná? Nejtěžší břemeno nás drtí, klesáme pod ním, tiskne nás k zemi. Ale v milostné poezii všech věků žena touží být zatížena břemenem mužova těla. Nejtěžší břemeno je tedy zároveň obrazem nejintenzivnějšího naplnění života. »*
-...
-*« Co si tedy máme zvolit? Tíhu nebo lehkost?
+
+*« ... Co si tedy máme zvolit? Tíhu nebo lehkost?
 Tuto otázku si kladl Parmenides v šestém století před Kristem. Viděl celý svět rozdělen na dvojice protikladů: světlo - tma; jemnost - hrubost; teplo - chlad; bytí - nebytí. Jeden pól protikladu byl pro něho pozitivní (světlo, teplo, jemnost, bytí), druhý negativní. Takové dělení na pozitivní a negativní pól nám může připadat dětinsky snadné. Až najeden případ: co je pozitivní, tíha nebo lehkost? Parmenides odpověděl: lehkost je pozitivní, tíha je negativní.
 Měl pravdu či ne? To je otázka. Jisté je jen jedno: protiklad tíha - lehkost je nejtajemnější a nejmnohovýznamnější ze všech protikladů. »*
 
