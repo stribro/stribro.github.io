@@ -2,7 +2,7 @@
 title = "Kundera vs. Boltzmann"
 slug = "Kundera vs. Boltzmann"
 authors = ["Vojtěch Votruba"]
-date = 2024-09-09
+date = 2024-09-10
 
 [taxonomies]
 categories = ["literatura", "fyzika", "filosofie"]
