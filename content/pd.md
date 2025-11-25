@@ -13,10 +13,10 @@ toc = false
 
 ### P. vs. D.
 
-![image](../static/1927.jpg)
+![image](/1927.jpg)
 "La peinture est plus forte que moi ; elle me fait faire ce qu'elle veut." - P.
 
-![image](../static/1928.jpg)
+![image](/1928.jpg)
 "My equation was smarter than me." - D.
 
 *Převzato od KK.*
