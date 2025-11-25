@@ -1,7 +1,7 @@
 +++
 title = "Kundera vs. Boltzmann"
 slug = "Kundera vs. Boltzmann"
-authors = ["Vojtěch Votruba"]
+authors = ["VV"]
 date = 2024-09-10
 
 [taxonomies]

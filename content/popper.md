@@ -1,7 +1,7 @@
 +++
 title = "n-té čtení Popperova paradoxu"
 slug = "n-té čtení Popperova paradoxu"
-authors = ["Vojtěch Votruba"]
+authors = ["VV"]
 date = 2024-05-08
 
 [taxonomies]
