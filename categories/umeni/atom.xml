@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="cs">
+    <title>Stříbro - umění</title>
+    <subtitle>Mlčeti zlato, mluviti stříbro</subtitle>
+    <link href="https://stribro.github.io/categories/umeni/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://stribro.github.io/"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-11-25T00:00:00+00:00</updated>
+    <id>https://stribro.github.io/categories/umeni/atom.xml</id>
+    <entry xml:lang="cs">
+        <title>P. vs. D.</title>
+        <published>2024-11-25T00:00:00+00:00</published>
+        <updated>2024-11-25T00:00:00+00:00</updated>
+        <author>
+          <name>VV</name>
+        </author>
+        <link rel="alternate" href="https://stribro.github.io/p-vs-d/" type="text/html"/>
+        <id>https://stribro.github.io/p-vs-d/</id>
+        <content type="html">&lt;h3 id=&quot;p-vs-d&quot;&gt;P. vs. D.&lt;&#x2F;h3&gt;
+&lt;img src=&quot;&#x2F;1927.jpg&quot; width=&quot;350px&quot; &#x2F;&gt;
+&lt;br&gt;
+&lt;p&gt;&amp;quot;La peinture est plus forte que moi ; elle me fait faire ce qu&#x27;elle veut.&amp;quot; - P.&lt;&#x2F;p&gt;
+&lt;img src=&quot;&#x2F;1928.jpg&quot; width=&quot;350px&quot; &#x2F;&gt;
+&lt;br&gt;
+&lt;p&gt;&amp;quot;My equation was smarter than me.&amp;quot; - D.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Převzato od KK.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+    </entry>
+</feed>
