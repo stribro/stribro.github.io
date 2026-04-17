@@ -11,8 +11,6 @@ categories = ["politika"]
 toc = false
 +++
 
-### n-té čtení Popperova paradoxu
-
 V své knize _Otevřená společnost a její nepřátelé_ vlivný rakouský filosof Karl Popper formuloval tzv. _paradox tolerance_. Jeho podstatou je, že přílišná tolerance netolerantních názorů ve společnosti zákonitě vede k zesilování těchto názorů, které nakonec převrátí misku vah a změní tak původně tolerantní „správnou“ společnost v netolerantní „nesprávnou“ společnost.
 
 Politicky byla otázka tolerance v 10. letech a v první polovině 20. let 21. století jednou z nejdiskutovanějších vůbec. Její konkrétní podobou byly například různé rozpravy nad hranicemi svobody slova a projevu.

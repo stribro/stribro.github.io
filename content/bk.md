@@ -2,7 +2,7 @@
 title = "Kundera vs. Boltzmann"
 slug = "Kundera vs. Boltzmann"
 authors = ["VV"]
-date = 2024-09-10
+date = 2025-09-10
 
 [taxonomies]
 categories = ["literatura", "fyzika", "filosofie"]
@@ -10,8 +10,6 @@ categories = ["literatura", "fyzika", "filosofie"]
 [extra]
 toc = false
 +++
-
-### Kundera vs. Boltzmann
 
 Jednou z nejznámějších prací Milana Kundery je kniha *Nesnesitelná lehkost bytí*. Její první část nazvaná *Lehkost a tíhá* uvádí leitmotiv celého románu:
 

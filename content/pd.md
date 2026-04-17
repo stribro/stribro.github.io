@@ -2,7 +2,7 @@
 title = "P. vs. D."
 slug = "P. vs. D."
 authors = ["VV"]
-date = 2024-11-25
+date = 2025-11-25
 
 [taxonomies]
 categories = ["umění", "fyzika"]
@@ -10,8 +10,6 @@ categories = ["umění", "fyzika"]
 [extra]
 toc = false
 +++
-
-### P. vs. D.
 
 <img src="/1927.jpg" width="350px" />
 
